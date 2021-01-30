@@ -1,3 +1,4 @@
 # :green_book: Pokedex-JS
  
-Application that shows all pokemon developed with Javascript.
+Application that shows all pokemon developed with javascript.
+
